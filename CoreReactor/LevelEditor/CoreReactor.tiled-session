@@ -1,0 +1,177 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Mid1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "C:/Users/liaml/Documents/Code Shit/Metro/Metro/LevelEditor/BasicAF.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "C:/Users/liaml/Documents/Code Shit/Metro/Metro/LevelEditor/Grass.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "C:/Users/liaml/Documents/Code Shit/Metro/Metro/LevelEditor/l1.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 717.5,
+                "y": -13.5
+            }
+        },
+        "C:/Users/liaml/Documents/Code Shit/Metro/Metro/LevelEditor/l2.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 359,
+                "y": -205
+            }
+        },
+        "C:/Users/liaml/Documents/Code Shit/Metro/Metro/LevelEditor/lvl1.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 195.4545454545455,
+                "y": -434.84848484848476
+            }
+        },
+        "C:/Users/liaml/Documents/Code Shit/Metro/Metro/LevelEditor/lvl2.tmx": {
+            "scale": 3,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 511.83333333333326,
+                "y": 767.8333333333333
+            }
+        },
+        "C:/Users/liaml/Documents/Code Shit/Metro/Metro/LevelEditor/lvl3.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1023,
+                "y": 1
+            }
+        },
+        "EditorTileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "End1.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 0,
+                "y": 256
+            }
+        },
+        "End2.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 483,
+                "y": 171
+            }
+        },
+        "Mid1.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 287,
+                "y": 109
+            }
+        },
+        "Mid2.tmx": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 512,
+                "y": 0
+            }
+        },
+        "Start1.tmx": {
+            "scale": 0.8034179687499999,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 0,
+                "y": 2.4893642883189386
+            }
+        },
+        "Start2.tmx": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "TestMap.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 263,
+                "y": 145.66666666666666
+            }
+        },
+        "l1.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 119.5,
+                "y": 98.5
+            }
+        },
+        "mid3.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 512,
+                "y": -256
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/liaml/Documents/Code Shit/CoreReactor/CoreReactor/Json",
+    "last.externalTilesetPath": "C:/Users/liaml/Documents/Code Shit/Metro/Metro/LevelEditor",
+    "last.imagePath": "C:/Users/liaml/Documents/Code Shit/CoreReactor/CoreReactor/LevelEditor",
+    "last.worldFilePath": "C:/Users/liaml/Documents/Code Shit/Metro/Metro/LevelEditor",
+    "loadedWorlds": [
+        "C:/Users/liaml/Documents/Code Shit/Metro/Metro/LevelEditor/lSeries.world"
+    ],
+    "map.fixedSize": false,
+    "map.lastUsedExportFilter": "JSON map files (*.json)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "EditorTileset.tsx",
+        "Start1.tmx",
+        "Start2.tmx",
+        "Mid1.tmx",
+        "Mid2.tmx",
+        "End1.tmx",
+        "mid3.tmx",
+        "End2.tmx"
+    ],
+    "project": "CoreReactor.tiled-project",
+    "recentFiles": [
+        "EditorTileset.tsx",
+        "Start1.tmx",
+        "Start2.tmx",
+        "End2.tmx",
+        "mid3.tmx",
+        "End1.tmx",
+        "Mid2.tmx",
+        "Mid1.tmx",
+        "l1.tmx",
+        "TestMap.tmx",
+        "C:/Users/liaml/Documents/Code Shit/Metro/Metro/LevelEditor/Grass.tsx",
+        "C:/Users/liaml/Documents/Code Shit/Metro/Metro/LevelEditor/BasicAF.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx"
+}
